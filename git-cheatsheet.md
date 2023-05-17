@@ -1,7 +1,10 @@
-git init
-git clone
-git add
-git commit -m "..."
-git push (origin main)
-git pull
-git restore
+- git init
+- git clone
+- git add
+- git commit -m "..."
+- git push (origin main)
+- git pull
+- git restore
+- git switch -c "branch name" (switch and create a new branch)
+- git branch -d "branch name" (delete a branch)
+- git push -u origin "branch name"(push to "this" branch)
